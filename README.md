@@ -1,6 +1,6 @@
 ## FParticle
 
-Sample built using F# + Fable that displays a swarm of particles attracted to the mouse pointer on an HTML5 canvas.
+Sample built using F# + [Fable](http://fable.io/) that displays a swarm of particles attracted to the mouse pointer on an HTML5 canvas.
 
 Inspired by a [JS implementation](http://www.playfuljs.com/particle-effects-are-easy/) made by Hunter Loftis.
 
