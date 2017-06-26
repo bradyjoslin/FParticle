@@ -25,7 +25,7 @@ type Particles = {
     mutable list : Particle list
 }
 
-// Attracts the particles to the mouse pointer
+// Attracts the particles to a point on the screen
 let attract x y particle =
     let dx = x - particle.x
     let dy = y - particle.y
