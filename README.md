@@ -4,15 +4,11 @@ Sample built using F# + [Fable](http://fable.io/) that displays a swarm of parti
 
 Inspired by a [JS implementation](http://www.playfuljs.com/particle-effects-are-easy/) made by Hunter Loftis.
 
-## Demo
-
-View a [live demo](http://htmlpreview.github.io/?https://github.com/bradyjoslin/FParticle/blob/master/demo/index.html)
+Access a [live demo](http://htmlpreview.github.io/?https://github.com/bradyjoslin/FParticle/blob/master/demo/index.html) in the browser.
 
 Screencast:
 
 ![Markdown](https://github.com/bradyjoslin/FParticle/raw/master/screenshot/particles.gif)
-
-
 
 ## Build and running the app
 
