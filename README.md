@@ -6,11 +6,13 @@ Inspired by a [JS implementation](http://www.playfuljs.com/particle-effects-are-
 
 ## Demo
 
-Screenshot:
+View a [live demo](http://htmlpreview.github.io/?https://github.com/bradyjoslin/FParticle/blob/master/demo/index.html)
+
+Screencast:
 
 ![Markdown](https://github.com/bradyjoslin/FParticle/raw/master/screenshot/particles.gif)
 
-[Live Demo](http://htmlpreview.github.io/?https://github.com/bradyjoslin/FParticle/blob/master/demo/index.html)
+
 
 ## Build and running the app
 
